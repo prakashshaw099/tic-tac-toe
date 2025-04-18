@@ -1,5 +1,5 @@
 import { useState } from "react";
-import SelectPlayer from "./components/selectPlayer";
+import SelectPlayer from "./components/SelectPlayer";
 import Winner from "./components/Winner";
 import GameBoard from "./components/GameBoard";
 
